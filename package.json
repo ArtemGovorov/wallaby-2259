@@ -1,0 +1,42 @@
+{
+    "dependencies": {
+        "@tomino/toolbelt": "^1.2.6",
+        "@toryjs/form": "^1.0.5",
+        "@toryjs/ui": "^1.0.20",
+        "@types/axios": "^0.14.0",
+        "@types/bpmn-moddle": "^5.1.2",
+        "@types/deepmerge": "^2.2.0",
+        "axios": "^0.19.0",
+        "bpmn-moddle": "^6.0.0",
+        "date-fns": "^2.6.0",
+        "deepmerge": "^4.2.1",
+        "forever": "^1.0.0",
+        "graphql": "^14.5.8",
+        "graphql-shield": "^6.1.0",
+        "graphql-yoga": "^1.18.3",
+        "jsonwebtoken": "^8.5.1",
+        "merge-graphql-schemas": "^1.7.0",
+        "mocha": "^6.2.2",
+        "nodemailer": "^6.3.1",
+        "prisma2": "^2.0.0-preview015",
+        "react": "^16.11.0",
+        "react-dom": "^16.11.0",
+        "ts-jest": "^24.1.0"
+    },
+    "devDependencies": {
+        "@babel/preset-env": "^7.6.3",
+        "@babel/preset-typescript": "^7.6.0",
+        "@graphql-codegen/cli": "^1.8.1",
+        "@graphql-codegen/typescript": "^1.8.1",
+        "@graphql-codegen/typescript-resolvers": "^1.8.1",
+        "@types/jest": "^24.0.19",
+        "@types/jsonwebtoken": "^8.3.5",
+        "@types/nodemailer": "^6.2.2",
+        "@types/react": "^16.9.11",
+        "@types/react-dom": "^16.9.3",
+        "jest": "^24.9.0",
+        "ts-node": "^8.4.1",
+        "tsconfig-paths": "^3.9.0",
+        "typescript": "^3.6.4"
+    }
+}
